@@ -1,4 +1,4 @@
-### Hi there, I'm Nuno Oliveira &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=NunationFL.Profile)
+### Hi there, I'm Nuno Oliveira &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=NunationFL.NunationFL)
 
 💻 MSc in Informatics and Computing Engineering (year 3/5) @ [FEUP](https://sigarra.up.pt/feup/pt/web_page.inicial) 
 
