@@ -1,6 +1,6 @@
 ### Hi there, I'm Nuno Oliveira &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=NunationFL.NunationFL)
 
-💻 MSc in Informatics and Computing Engineering (year 3/5) @ [FEUP](https://sigarra.up.pt/feup/pt/web_page.inicial) 
+💻 MSc in Informatics and Computing Engineering (year 4/5) @ [FEUP](https://sigarra.up.pt/feup/pt/web_page.inicial) 
 
 📈 **My GitHub Stats:**
 > Stats are a bit scuffed because most of the activity happened on gitlab and data can't be totally retrieved
