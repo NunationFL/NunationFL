@@ -1,6 +1,9 @@
 ### Hi there, I'm Nuno Oliveira &nbsp; ![nr_of_visitors](https://visitor-badge.glitch.me/badge?page_id=NunationFL.NunationFL)
 
-💻 MSc in Informatics and Computing Engineering (year 4/5) @ [FEUP](https://sigarra.up.pt/feup/pt/web_page.inicial) 
+💻 MSc in Informatics and Computing Engineering (year 5/5) @ [FEUP](https://sigarra.up.pt/feup/pt/web_page.inicial) 
+
+- Student email: up201806525@up.pt
+- Personal email: oliveiranunopt@gmail.com
 
 📈 **My GitHub Stats:**
 > Stats are a bit scuffed because a lot of my activity happened on gitlab so data can't be retrieved from a different account
